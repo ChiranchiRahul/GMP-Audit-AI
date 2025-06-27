@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+pypdf
+openai
+pandas
+tqdm
+requests
+plotly
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
